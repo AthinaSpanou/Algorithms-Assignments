@@ -11,7 +11,7 @@ Students will:
     Consider trade-offs in solving computing problems.
     Learn techniques that are used in solving problems involving big data, in different application areas.
 
-Course contents
+Course contents:
 
     Algorithms and Complexity
     Data Structures
